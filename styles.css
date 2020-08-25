@@ -1,0 +1,127 @@
+div.hover_container:hover .text {
+    display: inline; /* hidden when hovering the container */
+}
+
+div.hover_container:hover .image {
+    display: block; /* shown when hovering the container */
+}
+div.hover_container {
+    width: 300px; /* set a fixed width */
+    height: 300px; /* set a fixed height */
+}
+
+    div.hover_container .text {
+        display: block; /* shown as a block-type element by default, visible */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+    div.hover_container .image {
+        display: none; /* hidden by default */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+        div.hover_container .image img {
+            width: 300px; /* width of the image */
+            height: 300px; /* height of the image */
+        }
+
+
+
+    div.hover_container2:hover .text2 {
+        display: inline; /* hidden when hovering the container */
+    }
+
+    div.hover_container2:hover .image2 {
+        display: block; /* shown when hovering the container */
+    }
+
+div.hover_container2 {
+    width: 300px; /* set a fixed width */
+    height: 300px; /* set a fixed height */
+}
+
+    div.hover_container2 .text2 {
+        display: block; /* shown as a block-type element by default, visible */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+    div.hover_container2 .image2 {
+        display: none; /* hidden by default */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+        div.hover_container2 .image2 img {
+            width: 300px; /* width of the image */
+            height: 300px; /* height of the image */
+        }
+
+
+
+    div.hover_container3:hover .text3 {
+        display: inline; /* hidden when hovering the container */
+    }
+
+    div.hover_container3:hover .image3 {
+        display: block; /* shown when hovering the container */
+    }
+
+div.hover_container3 {
+    width: 300px; /* set a fixed width */
+    height: 300px; /* set a fixed height */
+}
+
+    div.hover_container3 .text3 {
+        display: block; /* shown as a block-type element by default, visible */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+    div.hover_container3 .image3 {
+        display: none; /* hidden by default */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+        div.hover_container3 .image3 img {
+            width: 300px; /* width of the image */
+            height: 300px; /* height of the image */
+        }
+
+
+
+
+
+          div.hover_container4:hover .text4 {
+        display: inline; /* hidden when hovering the container */
+    }
+
+    div.hover_container4:hover .image4 {
+        display: block; /* shown when hovering the container */
+    }
+
+div.hover_container4 {
+    width: 300px; /* set a fixed width */
+    height: 300px; /* set a fixed height */
+}
+
+    div.hover_container4 .text4 {
+        display: block; /* shown as a block-type element by default, visible */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+    div.hover_container4 .image4 {
+        display: none; /* hidden by default */
+        width: 300px; /* same width as container */
+        height: 300px; /* same height as container */
+    }
+
+        div.hover_container4 .image4 img {
+            width: 300px; /* width of the image */
+            height: 300px; /* height of the image */
+        }
+
